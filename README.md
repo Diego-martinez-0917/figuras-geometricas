@@ -1,8 +1,10 @@
-este proyecto permite almacenar figuras geométricas y la posibilidad de filtrar, editar y borrar
+Este proyecto permite almacenar figuras geométricas y la posibilidad de filtrar, editar y borrar
 
-En el directorio del proyecto, puede ejecutar:
+![home](/public/Home.jpg)
 
-### `inicio del hilo`
+En el directorio del proyecto, se puede ejecutar:
+
+### `yarn start`
 
 Ejecuta la aplicación en modo de desarrollo. \
 Abra [http: // localhost: 3000] (http: // localhost: 3000) para verlo en el navegador.
